@@ -1,0 +1,10 @@
+What is comment?
+    A comment is a text that is ignored upon execution.
+    Go supports single-line or multi-line comments.
+
+Single-line comment:
+    Single-line comments start with two forward slashes (//).
+
+
+multi-line comment:
+    Multi-line comments start with /* and ends with */.
